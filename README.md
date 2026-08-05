@@ -65,4 +65,4 @@ cd -Clinical_Decision_Making_POC
 ## 🔗 Links
 
 - **GitHub Repository:** https://github.com/RLT1124/-Clinical_Decision_Making_POC
-- **Video Recording:** [Click here to watch the video](https://drive.google.com/file/d/16xXUxJQH_dTucjWtD-bxz9YgyV1MD1mj/view?usp=drivesdk)
+- **Video Recording:** (https://drive.google.com/file/d/16xXUxJQH_dTucjWtD-bxz9YgyV1MD1mj/view?usp=drivesdk)
