@@ -60,3 +60,9 @@ This project demonstrates the application of machine learning and deep learning 
 ```bash
 git clone https://github.com/RLT1124/-Clinical_Decision_Making_POC.git
 cd -Clinical_Decision_Making_POC
+
+
+## 🔗 Links
+
+- **GitHub Repository:** https://github.com/RLT1124/-Clinical_Decision_Making_POC
+- **Video Recording:** [Click here to watch the video](https://drive.google.com/file/d/16xXUxJQH_dTucjWtD-bxz9YgyV1MD1mj/view?usp=drivesdk)
