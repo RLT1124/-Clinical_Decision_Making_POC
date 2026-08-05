@@ -57,7 +57,7 @@ This project demonstrates the application of machine learning and deep learning 
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/RLT1124/-Clinical_Decision_Making_POC.git
 cd -Clinical_Decision_Making_POC
 
